@@ -1,6 +1,6 @@
 
 
-## 🌟 Hi there, I'm Sheilamae Dalisayduremdes!
+## 🌟 Hi there, I'm SheilaMae Dalisay-Duremdes!
 
 I'm a passionate learner and builder who loves turning ideas into real, working solutions. I enjoy exploring new technologies, improving my skills, and creating clean, meaningful projects that reflect growth and curiosity.
 
