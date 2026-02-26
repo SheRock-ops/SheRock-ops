@@ -1,4 +1,6 @@
 <img width="1408" height="768" alt="Gemini_Generated_Image_c7ea38c7ea38c7ea" src="https://github.com/user-attachments/assets/169ef983-1d35-4470-b534-81a913ede38c" />
+
+
 ## 🌟 Hi there, I'm SheilaMae Dalisay-Duremdes!
 
 I'm a passionate learner and builder who loves turning ideas into real, working solutions. I enjoy exploring new technologies, improving my skills, and creating clean, meaningful projects that reflect growth and curiosity.
