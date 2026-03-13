@@ -9,6 +9,7 @@
 
 
 
+  
   I'm a passionate learner and builder who loves turning ideas into real, working solutions. I enjoy exploring new technologies, improving my skills, and creating clean, meaningful projects that reflect growth and curiosity.
 
 ### 🔱 Founder of **SheRock‑ops**
