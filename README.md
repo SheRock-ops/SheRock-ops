@@ -1,6 +1,6 @@
 ## 🌟 Hi there, I'm Sheila Mae!
 
-##Operational architect turning chaos into clarity with tech‑feminine precision##
+## Operational architect turning chaos into clarity with tech‑feminine precision ##
 
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_c7ea38c7ea38c7ea" src="https://github.com/user-attachments/assets/169ef983-1d35-4470-b534-81a913ede38c" />
