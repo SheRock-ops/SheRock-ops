@@ -22,14 +22,14 @@
 
   <!-- OFFICIAL SHEROCK GROUP HEADER -->
   <img width="1983" height="793" alt="Header" src="https://github.com/user-attachments/assets/2b839e12-e663-415d-a10a-21f695c965c7" />
-" />
 
 
-  <h1 style="font-size: 48px; font-weight: 800; margin-bottom: 0;">
+
+  <h1 style="font-size: 48px; font-weight: 800; margin-bottom: 0;
     Sheila Mae Dalisay-Duremdes
   </h1>
 
-  <h3 style="font-size: 22px; font-weight: 400; margin-top: 10px;">
+  <h3 style="font-size: 22px; font-weight: 400; margin-top: 10px;
     Operational Alchemist • Developer • Designer • Founder of the SheRock Group of Companies
   </h3>
 
