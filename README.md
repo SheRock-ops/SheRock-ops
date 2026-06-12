@@ -1,82 +1,179 @@
 
-<div align="center">
+<!-- HEADER TITLE + BADGES -->
 
-<h1 style="font-size: 80px; font-weight: 800; margin-bottom: 0; line-height: 1.1;">
-🌟 Hi, I’m Sheila Mae
-</h1>
+<h1 align="center">Hi, I’m <span style="color:#f7c9ff;">Sheila Mae</span> 👋</h1>
+<h3 align="center">Operational Alchemist • Developer • Designer • Founder of the SheRock Group of Companies</h3>
 
-<h3 style="font-size: 30px; font-weight: 500; margin-top: 10px; max-width: 900px;">
-Operational Alchemist • Systems Designer • Founder of the SheRock Group of Companies
-</h3>
-
-<p style="font-size: 22px; max-width: 850px; margin-top: 25px;">
-I turn chaos into clarity with <strong>engineered elegance and a touch of divine flair</strong> — building systems, tools, and digital experiences that are clean, intentional, and impossible to ignore.
+<p align="center">
+  <img src="https://img.shields.io/badge/Operational-Alchemist-f7c9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founder-SheRock%20Group-6a5acd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems-Engineer-ffd166?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Driven-Creator-f9a8d4?style=for-the-badge" />
 </p>
 
-<p style="font-size: 20px; max-width: 750px; margin-top: 10px;">
-Developer. Designer. Vision‑maker.<br>
-Fueled by caffeine, creativity, and the occasional dramatic gasp at my own code.
+---
+
+<!-- ANIMATED SVG: TYPING TAGLINE -->
+
+<p align="center">
+  <svg viewBox="0 0 900 80" width="90%" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text { fill: #f7f7f7; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 20px; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+    <rect width="100%" height="100%" rx="8" fill="#0d0d0f"/>
+    <text x="30" y="48" class="text">
+      I turn chaos into clarity through precision‑engineered systems and design‑driven development
+    </text>
+    <text x="865" y="48" class="text cursor">|</text>
+  </svg>
 </p>
 
-<br>
+---
+
+## 🏛️ Official SheRock Group Header
+
+> **Official SheRock Group Header — Custom Brand Artwork Coming Soon**  
+> Reserved space for the SheRock Group of Companies’ official visual identity.  
+> A polished banner will be added here to represent the full ecosystem — technology, design, operations, and innovation.
+
+---
+
+## ⚡ About Me
+
+**I turn chaos into clarity through precision‑engineered systems and design‑driven development.**  
+Builder. Vision‑maker. Problem‑solver with range.
+
+I build, break, tune, and automate — sometimes in that order, sometimes all at once.  
+I thrive where code meets infrastructure and where creativity high‑fives engineering.
 
 ---
 
 ## 🏛️ SheRock Group of Companies
-<p style="max-width: 750px; font-size: 18px;">
-A growing ecosystem built on innovation, design, tech, and the eternal motto:<br>
-<strong>“Don’t worry, I’ll make it work.”</strong><br><br>
-From digital solutions to creative direction, I build things that function beautifully and look like they belong in a glossy magazine.
-</p>
+
+<img src="https://img.shields.io/badge/SheRock-Group%20of%20Companies-8a4fff?style=flat-square" />
+
+A growing ecosystem focused on **innovation, technology, design, operations, and strategic empowerment**.  
+Every division is built to elevate excellence, leadership, and long‑term impact.
 
 ---
 
 ## 🔱 SheRock‑ops
-<p style="max-width: 750px; font-size: 18px;">
-<strong>A creative and technical playground for builders, innovators, and problem‑solvers — a space where anyone with ambition can grow, learn, and break ceilings on their own terms.</strong>
+
+<img src="https://img.shields.io/badge/SheRock-Ops-ff7eb6?style=flat-square" />
+
+The operations and systems powerhouse of the SheRock Group.  
+I build workflows, automation, and scalable structures for teams and individuals who value clarity, precision, and high‑performance execution.
+
+---
+
+## 💻 Tech & Creative Stack
+
+<!-- ANIMATED SVG: FLOW LINE UNDER TITLE -->
+
+<p>
+  <svg viewBox="0 0 400 8" width="220" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8a4fff"/>
+        <stop offset="50%" stop-color="#f7c9ff"/>
+        <stop offset="100%" stop-color="#ffd166"/>
+      </linearGradient>
+    </defs>
+    <path d="M0 4 Q 50 0 100 4 T 200 4 T 300 4 T 400 4"
+          fill="none" stroke="url(#grad)" stroke-width="3">
+      <animate attributeName="stroke-dasharray"
+               from="0,400" to="400,0"
+               dur="2.5s" repeatCount="indefinite" />
+    </path>
+  </svg>
+</p>
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=fff" />
+</p>
+
+**Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
+</p>
+
+**Developer Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
+  <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=fff" />
+</p>
+
+**Design Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Photoshop-31a8ff?style=for-the-badge&logo=adobephotoshop&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Illustrator-ff9a00?style=for-the-badge&logo=adobeillustrator&logoColor=fff" />
+</p>
+
+**Interests**
+
+<p>
+  <img src="https://img.shields.io/badge/Web%20Development-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-444?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX-111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Development-222?style=flat-square" />
 </p>
 
 ---
 
-## 🛠️ What I Actually Do
-<p style="max-width: 750px; font-size: 18px;">
-Build clean, intentional digital experiences<br>
-Design beautiful interfaces in <strong>Adobe Photoshop & Illustrator</strong><br>
-Architect systems that don’t crumble under pressure<br>
-Turn vague ideas into real, functional solutions<br>
-Debug like a detective with caffeine<br>
-Lead with clarity, creativity, and a signature SheRock sparkle  
-</p>
+## 🚀 What I’m Building
+
+- Full‑stack applications under the SheRock umbrella  
+- AI‑enhanced workflows for smarter, faster development  
+- Design‑driven systems that blend engineering + creativity  
+- Scalable operational frameworks for SheRock‑ops  
 
 ---
 
 ## 📚 What I’m Learning
-<p style="max-width: 750px; font-size: 18px;">
-Modern JavaScript frameworks (React, Vue — collecting them like Infinity Stones)<br>
-Backend development & APIs<br>
-Scalable architecture<br>
-How to stop adding “just one more feature”  
-</p>
+
+- Modern JavaScript frameworks  
+- Backend development & APIs  
+- Clean code + scalable architecture  
 
 ---
 
-## 💡 Fun Facts
-<p style="max-width: 750px; font-size: 18px;">
-I switch from designer‑mode to developer‑mode faster than your WiFi reconnects<br>
-My code works 90% of the time… the other 10% builds character<br>
-My commits are clean, but my Figma files? Chaos. Beautiful, organized chaos.  
+## 💡 What Drives Me
+
+- Turning problems into elegant, efficient solutions  
+- Designing intuitive, beautiful user experiences  
+- Building systems that empower people  
+- Sharing knowledge, collaborating, and uplifting others  
+
+---
+
+## 📊 GitHub Vibes (Optional Cards)
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-<p style="max-width: 750px; font-size: 18px;">
-Let’s build boldly, beautifully, and with intention.<br>
-You bring the idea — I’ll bring the alchemy.
+
+<p>
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=fff" />
 </p>
-
-</div>
-
-
-
-
