@@ -1,49 +1,53 @@
-## 🌟 Hi there, I'm Sheila Mae!
-
-## Operational alchemist turning chaos into clarity with tech‑feminine precision ##
 
 
-<img width="1408" height="768" alt="Gemini_Generated_Image_c7ea38c7ea38c7ea" src="https://github.com/user-attachments/assets/169ef983-1d35-4470-b534-81a913ede38c" />
+🌟 Hi, I’m Sheila Mae — Operational Alchemist & Founder of the SheRock Group of Companies
 
 
+I turn chaos into clarity with engineered elegance and a touch of divine flair — building systems, tools, and digital experiences that are clean, intentional, and impossible to ignore.
+Developer. Designer. Vision‑maker.
+Powered by caffeine, creativity, and the occasional dramatic gasp at my own code.
+---
+✨ Badges That Make Me Look Extra Competent
+https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge
+https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge
+https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge
+https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge
+https://img.shields.io/badge/Version%20Control-Git-red?style=for-the-badge
+https://img.shields.io/badge/Hub-GitHub-black?style=for-the-badge
+https://img.shields.io/badge/Design-Adobe%20Photoshop-31A8FF?style=for-the-badge
+https://img.shields.io/badge/Vector-Adobe%20Illustrator-FF9A00?style=for-the-badge
+---
+🏛️ SheRock Group of Companies
+A growing ecosystem built on innovation, design, tech, and “don’t worry, I’ll make it work.”
+From digital solutions to creative direction, I build things that function beautifully and look like they belong in a glossy magazine.
+---
+🔱 SheRock‑ops
+A creative and technical playground for builders, innovators, and problem‑solvers — a space where anyone with ambition can grow, learn, and break ceilings on their own terms.
+---
+🛠️ What I Actually Do (Besides Look Busy)
+Build clean, intentional digital experiences
+Design beautiful interfaces in Adobe Photoshop & Illustrator
+Architect systems that don’t crumble under pressure
+Turn vague ideas into real, functional solutions
+Debug like a detective with caffeine
+Lead with clarity, creativity, and a signature SheRock sparkle
+---
+📚 What I’m Learning
+Modern JavaScript frameworks (React, Vue — I’m collecting them like Infinity Stones)
+Backend development & APIs
+Scalable architecture
+How to stop adding “just one more feature”
+---
+💡 Fun Facts
+I switch from designer‑mode to developer‑mode faster than your WiFi reconnects
+My code works 90% of the time… the other 10% builds character
+My commits are clean, but my Figma files? Chaos. Beautiful, organized chaos.
+---
+📫 Connect With Me
+Let’s build boldly, beautifully, and with intention.
+You bring the idea — I’ll bring the alchemy.
 
 
-
-  
-  
-  I'm a passionate learner and builder who loves turning ideas into real, working solutions. I enjoy exploring new technologies, improving my skills, and creating clean, meaningful projects that reflect growth and curiosity.
-
-### 🔱 Founder of **SheRock‑ops**
-
-**SheRock‑ops** is a space dedicated to empowering women in tech—celebrating growth, resilience, learning, and innovation.  
-Through SheRock‑ops, I aim to inspire others to build confidently, break barriers, and rock every opportunity in tech.
-
-### 🔧 Technologies & Tools I Work With
-
-*   **Languages:** JavaScript, Python, HTML, CSS
-*   **Frameworks:** React, Node.js (or update to your real stack!)
-*   **Tools:** Git, GitHub, VS Code
-*   **Interests:** Web development, automation, UI/UX, cloud, AI-driven development
-
-### 🚀 What I’m Currently Working On
-
-*   Building meaningful projects under **SheRock‑ops**
-*   Expanding my full‑stack development skills
-*   Exploring AI tools to improve productivity and creativity
-
-### 📚 What I’m Learning
-
-*   Modern JavaScript frameworks
-*   Backend development & APIs
-*   Clean code and scalable architecture
-
-### 💡 What I Love Doing
-
-*   Solving problems through code
-*   Designing simple yet beautiful user experiences
-*   Collaborating, sharing ideas, and helping others learn
-
-### 📫 Connect With Me
 
 
 
