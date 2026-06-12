@@ -11,26 +11,10 @@
   <img src="https://img.shields.io/badge/Design%20Driven-Creator-f9a8d4?style=for-the-badge" />
 </p>
 
----
 
-<!-- ANIMATED SVG: TYPING TAGLINE -->
 
-<p align="center">
-  <svg viewBox="0 0 900 80" width="90%" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .text { fill: #f7f7f7; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 20px; }
-      .cursor { animation: blink 1s step-end infinite; }
-      @keyframes blink { 50% { opacity: 0; } }
-    </style>
-    <rect width="100%" height="100%" rx="8" fill="#0d0d0f"/>
-    <text x="30" y="48" class="text">
-      I turn chaos into clarity through precision‑engineered systems and design‑driven development
-    </text>
-    <text x="865" y="48" class="text cursor">|</text>
-  </svg>
-</p>
 
----
+
 
 ## 🏛️ Official SheRock Group Header
 
@@ -156,18 +140,6 @@ I build workflows, automation, and scalable structures for teams and individuals
 - Designing intuitive, beautiful user experiences  
 - Building systems that empower people  
 - Sharing knowledge, collaborating, and uplifting others  
-
----
-
-## 📊 GitHub Vibes (Optional Cards)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
