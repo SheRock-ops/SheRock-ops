@@ -21,7 +21,8 @@
 <div align="center">
 
   <!-- OFFICIAL SHEROCK GROUP HEADER -->
-  <img width="1024" height="1024" alt="Firefly Generated Image" src="https://github.com/user-attachments/assets/84acc8aa-b75d-47f9-a273-02bc5a1dd502" />
+  <img width="1983" height="793" alt="Header" src="https://github.com/user-attachments/assets/2b839e12-e663-415d-a10a-21f695c965c7" />
+" />
 
 
   <h1 style="font-size: 48px; font-weight: 800; margin-bottom: 0;">
