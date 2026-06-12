@@ -18,9 +18,21 @@
 
 ## 🏛️ Official SheRock Group Header
 
-> **Official SheRock Group Header — Custom Brand Artwork Coming Soon**  
-> Reserved space for the SheRock Group of Companies’ official visual identity.  
-> A polished banner will be added here to represent the full ecosystem — technology, design, operations, and innovation.
+<div align="center">
+
+  <!-- OFFICIAL SHEROCK GROUP HEADER -->
+  <img width="1024" height="1024" alt="Firefly Generated Image" src="https://github.com/user-attachments/assets/84acc8aa-b75d-47f9-a273-02bc5a1dd502" />
+
+
+  <h1 style="font-size: 48px; font-weight: 800; margin-bottom: 0;">
+    Sheila Mae Dalisay-Duremdes
+  </h1>
+
+  <h3 style="font-size: 22px; font-weight: 400; margin-top: 10px;">
+    Operational Alchemist • Developer • Designer • Founder of the SheRock Group of Companies
+  </h3>
+
+</div>
 
 ---
 
