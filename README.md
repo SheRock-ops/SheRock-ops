@@ -6,16 +6,7 @@
 I turn chaos into clarity with engineered elegance and a touch of divine flair — building systems, tools, and digital experiences that are clean, intentional, and impossible to ignore.
 Developer. Designer. Vision‑maker.
 Powered by caffeine, creativity, and the occasional dramatic gasp at my own code.
----
-✨ Badges That Make Me Look Extra Competent
-https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge
-https://img.shields.io/badge/Style-CSS3-blue?style=for-the-badge
-https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge
-https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge
-https://img.shields.io/badge/Version%20Control-Git-red?style=for-the-badge
-https://img.shields.io/badge/Hub-GitHub-black?style=for-the-badge
-https://img.shields.io/badge/Design-Adobe%20Photoshop-31A8FF?style=for-the-badge
-https://img.shields.io/badge/Vector-Adobe%20Illustrator-FF9A00?style=for-the-badge
+
 ---
 🏛️ SheRock Group of Companies
 A growing ecosystem built on innovation, design, tech, and “don’t worry, I’ll make it work.”
